@@ -1,4 +1,4 @@
-# Online-Store-Data-Analysis
+# Online-Superstore-Insight-Analysis
 
 ## Background  
 This simple dataset gives insights on online orders of a US superstore from 2015-2018.  
